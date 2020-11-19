@@ -1,0 +1,9 @@
+/Users/jinoyparekh/Workspace/Projects/lll/SchemaLibrary/bin/Debug/netstandard2.0/SchemaLibrary.deps.json
+/Users/jinoyparekh/Workspace/Projects/lll/SchemaLibrary/bin/Debug/netstandard2.0/SchemaLibrary.dll
+/Users/jinoyparekh/Workspace/Projects/lll/SchemaLibrary/bin/Debug/netstandard2.0/SchemaLibrary.pdb
+/Users/jinoyparekh/Workspace/Projects/lll/SchemaLibrary/obj/Debug/netstandard2.0/SchemaLibrary.csprojAssemblyReference.cache
+/Users/jinoyparekh/Workspace/Projects/lll/SchemaLibrary/obj/Debug/netstandard2.0/SchemaLibrary.AssemblyInfoInputs.cache
+/Users/jinoyparekh/Workspace/Projects/lll/SchemaLibrary/obj/Debug/netstandard2.0/SchemaLibrary.AssemblyInfo.cs
+/Users/jinoyparekh/Workspace/Projects/lll/SchemaLibrary/obj/Debug/netstandard2.0/SchemaLibrary.csproj.CoreCompileInputs.cache
+/Users/jinoyparekh/Workspace/Projects/lll/SchemaLibrary/obj/Debug/netstandard2.0/SchemaLibrary.dll
+/Users/jinoyparekh/Workspace/Projects/lll/SchemaLibrary/obj/Debug/netstandard2.0/SchemaLibrary.pdb
