@@ -4,10 +4,6 @@ name: Deploy to GitHub Pages
 on:
   push:
     branches: [ master ]
-    
-defaults:
-  run:
-    working-directory: mloper
 
 jobs:
   deploy-to-github-pages:
